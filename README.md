@@ -5,7 +5,7 @@
 
 You should install all dependancies first.
 
-`npm i`
+`npm install`
 
 Then run the development server.
 
